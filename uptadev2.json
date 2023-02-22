@@ -1,9 +1,9 @@
 {
-  "code_apk": 5,
+  "code_apk": 7,
   "code_aviso": 1,
-  "message_apk": "Essa atualização é apenas para dá suporte ao Android 13 e correção nos seguintes servidores: Animes (Talvez você tenha que remover seus favoritos e \"Continue onde parou\" para voltar a funcionar), FutMax e MMFilmes!!! Infelizmente por questão de tempo, só manteremos o aplicativo funcionando, sem novas funcionalidades! Mas se tiver sujestão para melhorar o aplicativo é só enviar um feedback :)",
+  "message_apk": "(v2) Essa atualização é apenas para dá suporte ao Android 13 e correção nos seguintes servidores: Animes (Talvez você tenha que remover seus favoritos e \"Continue onde parou\" para voltar a funcionar), FutMax e MMFilmes!!! Infelizmente por questão de tempo, só manteremos o aplicativo funcionando, sem novas funcionalidades! Mas se tiver sujestão para melhorar o aplicativo é só enviar um feedback :)",
   "message_aviso": "Olá mundo Aviso!",
   "aviso_btt": "Fechar",
   "url_aviso": "https://www.youtube.com/watch?v=yVxSLXacM38",
-  "url_apk": "https://www.mediafire.com/file/dxnxgf1xeiutetv/NetCine_Play-22_02_2023.apk/file"
+  "url_apk": "https://www.mediafire.com/file/jx8mty5mc0glsg7/NetCinePlay-22-02-23.apk/file"
 }
