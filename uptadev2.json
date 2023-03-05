@@ -1,9 +1,9 @@
 {
-  "code_apk": 7,
+  "code_apk": 10,
   "code_aviso": 1,
-  "message_apk": "(v2) Essa atualização é apenas para dá suporte ao Android 13 e correção nos seguintes servidores: Animes (Talvez você tenha que remover seus favoritos e \"Continue onde parou\" para voltar a funcionar), FutMax e MMFilmes!!! Infelizmente por questão de tempo, só manteremos o aplicativo funcionando, sem novas funcionalidades! Mas se tiver sujestão para melhorar o aplicativo é só enviar um feedback :)",
+  "message_apk": "Tive um tempinho hoje e resolvi corrigir um bug que ficou em animes, principalmente animes com episódios em lançamentos. Também as notificações de donwload foram melhoradas um pouco. Caso o aplicativo não esteja funcionando use uma VPN. Sabemos que os Players Leve e Alto não estam funciona direito, infelizmente por enquanto não podemos fazer nada.",
   "message_aviso": "Olá mundo Aviso!",
   "aviso_btt": "Fechar",
   "url_aviso": "https://www.youtube.com/watch?v=yVxSLXacM38",
-  "url_apk": "https://www.mediafire.com/file/jx8mty5mc0glsg7/NetCinePlay-22-02-23.apk/file"
+  "url_apk": "https://www.mediafire.com/file/kosw694aosb3bkf/NetCinePlay_v6-6_05-03.apk/file"
 }
