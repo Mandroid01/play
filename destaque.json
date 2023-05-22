@@ -8,8 +8,5 @@
   "temporada": 0,
   "episodio": 0,
   "imagev": "https://vizer.tv/content/series/posterPt/185/22180.webp",
-  "isfilme": false,
-  "active": false,
-  "version": 10,
-  "linkVersion": "https://adapter.com"
+  "isfilme": false
 }
